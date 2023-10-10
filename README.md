@@ -1,5 +1,4 @@
-# Full_Stack
-Complete Full Stack Course
+Complete Javascript Course
 
 # Javascript
 1. Basic
